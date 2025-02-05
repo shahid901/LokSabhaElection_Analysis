@@ -2,8 +2,11 @@
   This project analyzes and visualizes election data to understand the electoral performance of various political parties and candidates. The data comprises information about constituencies, leading and trailing parties, candidates, and their vote margins. By cleaning and merging multiple datasets, we explore key insights such as the number of seats won, vote distribution, party performance comparisons, and trends in vote margins. Through various visualizations (bar charts, pie charts, and histograms), we aim to provide a comprehensive view of election outcomes, focusing on party dominance, leading candidates, and regional trends across different states.
 
 **1.Import python libraries and Load the data from CSV**
+
 **2.Merge the datasets on 'Constituency'**
+
 **3.Convert 'Margin' to numeric for analysis**
+
 **4.Data Cleaning and Verify cleaned data**
 
 **5.Data Visualizations**
@@ -17,7 +20,7 @@
   # 8. Top 10 trailing parties by seats 
   # 9. Vote Margin Comparison Between Leading and Trailing Parties
   # 10. Correlation between Vote Margin and Seats Won 
-  # 11. Votes for specific leaders: Narendra Modi, Rahul Gandhi, and Amit Shah -
+  # 11. Votes for specific leaders: Narendra Modi, Rahul Gandhi, and Amit Shah 
   # 12. Top Parties by Votes in Respective States
 
 ### Conclusion:
